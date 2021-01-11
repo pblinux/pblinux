@@ -8,8 +8,6 @@
 *Hello there, my name is Pablo, I've been a mobile developer for more than 9 years, a total enthusiast and speaker of Flutter and Android. Co-founder and lead mobile engineer at [Pixela](https://pixela.tech). Organizer at [GDG Xela](https://gdg.community.dev/gdg-xela). [Flusmic](https://github.com/PixelaGt/flusmic) maintainer.
 I really love collaborating on open-source projects.*
 
-</br>
-
 ## Ask me about:
 ![Flutter](https://img.shields.io/badge/-Flutter-1F2430?style=flat&logo=flutter&logoColor=47D1FD)
 ![Dart](https://img.shields.io/badge/-Dart-1F2430?style=flat&logo=dart&logoColor=0175C2)
@@ -33,15 +31,11 @@ Also about Tolkien's Legendarium and all related to Lord of the Rings. 😊 💎
 
 ![pblinux stats](https://github-readme-stats.vercel.app/api?username=pblinux&show_icons=true&theme=ayu-mirage&title_color=fff)
 
-</br>
-
 ## Currently working on:
 
-| | |
+| Flusmic | Jetfm |
 | :---: | :---: |
-|  <br/> [![Flusmic](https://github-readme-stats.vercel.app/api/pin/?username=PixelaGT&repo=flusmic&show_icons=true&line_height=27&theme=ayu-mirage&text_color=fff&title_color=fff)](https://github.com/PixelaGt/flusmic) | <br/>  [![Jetfm](https://github-readme-stats.vercel.app/api/pin/?username=pblinux&repo=jetfm&show_icons=true&line_height=27&theme=ayu-mirage&text_color=fff&title_color=fff)](https://github.com/pblinux/jetfm) |
-
-<br/>
+| [![Flusmic](https://github-readme-stats.vercel.app/api/pin/?username=PixelaGT&repo=flusmic&show_icons=true&line_height=27&theme=ayu-mirage&text_color=fff&title_color=fff)](https://github.com/PixelaGt/flusmic) | [![Jetfm](https://github-readme-stats.vercel.app/api/pin/?username=pblinux&repo=jetfm&show_icons=true&line_height=27&theme=ayu-mirage&text_color=fff&title_color=fff)](https://github.com/pblinux/jetfm) |
 
 ## Contact me:
 <p>
