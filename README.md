@@ -5,14 +5,14 @@
 
 ## About me:
 
-*Hello there, my name is Pablo, I've been a mobile developer for more than 9 years, a total enthusiast and speaker of Flutter and Android. Co-founder and lead mobile engineer at [Pixela](https://pixela.tech). Organizer at [GDG Xela](https://gdg.community.dev/gdg-xela). [Flusmic](https://github.com/PixelaGt/flusmic) maintainer.
+*Hello there, my name is Pablo, I've been a mobile developer for more than 10 years, a total enthusiast and speaker of Flutter and Android. Currently, I'm a Android Engineer at [PayPal](https://www.paypal.com), co-founder and lead mobile engineer at [Pixela](https://pixela.tech). Also, I'm a organizer at [GDG Xela](https://gdg.community.dev/gdg-xela) and [GuateKUG](https://twitter.com/GuateKUG).
 I really love collaborating on open-source projects.*
 
 ## Ask me about:
-![Flutter](https://img.shields.io/badge/-Flutter-1F2430?style=flat&logo=flutter&logoColor=47D1FD)
-![Dart](https://img.shields.io/badge/-Dart-1F2430?style=flat&logo=dart&logoColor=0175C2)
 ![Android](https://img.shields.io/badge/-Android-1F2430?style=flat&logo=android)
+![Flutter](https://img.shields.io/badge/-Flutter-1F2430?style=flat&logo=flutter&logoColor=47D1FD)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-1F2430?style=flat&logo=kotlin)
+![Dart](https://img.shields.io/badge/-Dart-1F2430?style=flat&logo=dart&logoColor=0175C2)
 ![Firebase](https://img.shields.io/badge/-Firebase-1F2430?style=flat&logo=firebase)
 ![AWS](https://img.shields.io/badge/-AWS-1F2430?style=flat&logo=amazon-aws)
 ![NuxtJS](https://img.shields.io/badge/-NuxtJS-1F2430?style=flat&logo=nuxt.js)
@@ -40,7 +40,7 @@ Also about Tolkien's Legendarium and all related to Lord of the Rings. 😊 💎
 ## Contact me:
 <p>
   <p>
-    <a href="mailto:pablo@pixela.com.gt"> 
+    <a href="mailto:pablo@pixela.tech"> 
       <img src="assets/mail.svg" width="32px"/>
     </a>
     &nbsp;
